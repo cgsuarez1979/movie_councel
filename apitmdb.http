@@ -1,0 +1,5 @@
+GET https://api.themoviedb.org/3/discover/movie?api_key=b0087117f5c696b51297c5b60fef8615
+
+###
+
+GET https://api.themoviedb.org/3/movie/550?api_key=b0087117f5c696b51297c5b60fef8615
